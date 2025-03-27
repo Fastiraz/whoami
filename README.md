@@ -8,8 +8,8 @@ I am Fastiraz. Just a guy who love tech (offensive security). I'm curious and ve
 
 - [Some Dreams](#-some-dreams)
 - [Programming Languages](#-programming-languages)
-- [Hard Skills](#-hard-skills)
 - [Projects](#-projects)
+- [Hard Skills](#-hard-skills)
 - [Coming soon...](#-coming-soon)
 
 ---
@@ -40,6 +40,27 @@ My professional dreams are companies that I want to work for one day in my life.
 | `Bash` | [=====     ] |
 | `C#` | [======    ] |
 | `Lua` | [===       ] |
+
+---
+
+## 👷 Projects
+
+
+- Creation of an AI using satellite imagery, vision LLM and OCR for GEOINT.
+- Creation of a trained AI that can attack systems and interact with private and offensive documentations.
+- Creation of a weapon detection and alerting system with cameras.
+- Development of a botnet c2 in language C.
+- Contribute to Exegol for a secret feature
+- Contribute to Exegol to add GPU support to the wrapper.
+- Setting up a private cloud for the french National Police and Gendarmerie.
+- Carrying out an intrusion test on an internal product.
+- Creation of a software enabling several attacks to be launched via a GUI in C# and .NET framework.
+- Creation of a self-hosted shell assistant tool. (EMIKO)
+- Creation of a super malware in language C with all the knowledge I have in maldev. (evasion techniques, stealer, c2...)
+- A complete open-source homelab.
+- Build a course an windows pentesting.
+- Code a HTTP server in pure C.
+- Code a hardware spoofer with Universal Windows Platform (UWP) framework in C++/WinRT.
 
 ---
 
@@ -98,26 +119,6 @@ My professional dreams are companies that I want to work for one day in my life.
     - LlamaIndex
   - MCP
 
-
----
-
-## 👷 Projects
-
-
-- Creation of an AI using satellite imagery, vision LLM and OCR for GEOINT.
-- Creation of a trained AI that can attack systems and interact with private and offensive documentations.
-- Creation of a weapon detection and alerting system with cameras.
-- Development of a botnet c2 in language C.
-- Contribute to Exegol for a secret feature
-- Contribute to Exegol to add GPU support to the wrapper.
-- Setting up a private cloud for the french National Police and Gendarmerie.
-- Carrying out an intrusion test on an internal product.
-- Creation of a software enabling several attacks to be launched via a GUI in C# and .NET framework.
-- Creation of a self-hosted shell assistant tool. (EMIKO)
-- Creation of a super malware in language C with all the knowledge I have in maldev. (evasion techniques, stealer, c2...)
-- A complete open-source homelab.
-- Build a course an windows pentesting.
-- Code a HTTP server in pure C.
 
 ---
 
