@@ -53,13 +53,18 @@ My professional dreams are companies that I want to work for one day in my life.
     - SSRF
     - SSTI
     - Command injection
+    - Vulnerability scanning
   - Misc
     - Brute-force
     - Hash cracking (simple, distributed and rainbow tables)
     - OSINT
-  - Scanning
-    - Network
-    - Vulnerability
+    - Text recovering from pixelized image
+    - Image steganography
+  - Network
+    - Network scanning
+    - Port scanning
+    - Port forwarding
+    - SSH Tunneling
   - Windows
     - Unquoted path
     - DLL injection
@@ -81,6 +86,7 @@ My professional dreams are companies that I want to work for one day in my life.
   - Frameworks
     - LangChain
     - LlamaIndex
+  - MCP
 
 
 ---
@@ -92,7 +98,8 @@ My professional dreams are companies that I want to work for one day in my life.
 - Creation of a trained AI that can attack systems and interact with private and offensive documentations.
 - Creation of a weapon detection and alerting system with cameras.
 - Development of a botnet c2 in language C.
-- Contribute to Exegol for a secret feature and add feature to the wrapper.
+- Contribute to Exegol for a secret feature
+- Contribute to Exegol to add GPU support to the wrapper.
 - Setting up a private cloud for the french National Police and Gendarmerie.
 - Carrying out an intrusion test on an internal product.
 - Creation of a software enabling several attacks to be launched via a GUI in C# and .NET framework.
@@ -100,6 +107,7 @@ My professional dreams are companies that I want to work for one day in my life.
 - Creation of a super malware in language C with all the knowledge I have in maldev. (evasion techniques, stealer, c2...)
 - A complete open-source homelab.
 - Build a course an windows pentesting.
+- Code a HTTP server in pure C.
 
 ---
 
