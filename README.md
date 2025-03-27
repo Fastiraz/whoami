@@ -6,11 +6,11 @@ I am Fastiraz. Just a guy who love tech (offensive security). I'm curious and ve
 
 ## 📝 Contents
 
-- [Some Dreams](#some-dreams)
-- [Programing Languages](#programing-languages)
-- [Hard Skills](#hard-skills)
-- [Projects](#projects)
-- [Coming soon...](#coming-soon...)
+- [Some Dreams](#-some-dreams)
+- [Programming Languages](#-programming-languages)
+- [Hard Skills](#-hard-skills)
+- [Projects](#-projects)
+- [Coming soon...](#-coming-soon)
 
 ---
 
@@ -26,7 +26,7 @@ My professional dreams are companies that I want to work for one day in my life.
 
 ---
 
-## 💻 Programing Languages
+## 💻 Programming Languages
 
 | Languages | % |
 | --- | --- |
