@@ -48,7 +48,7 @@ My professional dreams are companies that I want to work for one day in my life.
 
 - Creation of an AI using satellite imagery, vision LLM and OCR for GEOINT.
 - Creation of a trained AI that can attack systems and interact with private and offensive documentations.
-- Creation of a weapon detection and alerting system with cameras.
+- Creation of a weapon detection and fight alerting system with cameras.
 - Development of a botnet c2 in language C.
 - Contribute to Exegol for a secret feature
 - Contribute to Exegol to add GPU support to the wrapper.
@@ -117,6 +117,7 @@ My professional dreams are companies that I want to work for one day in my life.
   - Frameworks
     - LangChain
     - LlamaIndex
+    - CrewAI
   - MCP
 
 
