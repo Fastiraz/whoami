@@ -22,7 +22,9 @@ My professional dreams are companies that I want to work for one day in my life.
 
 2. The second is [Synacktiv](https://www.synacktiv.com). I personally think that they are the best in France in terms of offensive security (after the DGSE 😅). I'm very passionate about offensive security and I want to learn more so that I can progress as much as possible. That's why I want to join Synacktiv one day. It will allow me to be surrounded by the best and to acquire skills that I would never get anywhere else.
 
-3. Google. Wait, you really want to know why?
+3. The third one, Hugging Face. A french company that advance and democratize artificial intelligence through open source and open science.
+
+4. Google. Wait, you really want to know why?
 
 ---
 
