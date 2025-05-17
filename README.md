@@ -56,6 +56,7 @@ My professional dreams are companies that I want to work for one day in my life.
 - Contribute to Exegol to add GPU support to the wrapper.
 - Setting up a private cloud for the french National Police and Gendarmerie.
 - Carrying out an intrusion test on an internal product.
+- Development of a DeFi bot using machine learning algorithms like Random Forest, Linear Regression and more...
 - Creation of a software enabling several attacks to be launched via a GUI in C# and .NET framework.
 - Creation of a self-hosted shell assistant tool. (EMIKO)
 - Creation of a super malware in language C with all the knowledge I have in maldev. (evasion techniques, stealer, c2...)
@@ -130,3 +131,4 @@ My professional dreams are companies that I want to work for one day in my life.
 1. HackTheBox Certified Penetration Testing Specialist (CPTS)
 2. MalDev Academy complete syllabus
 3. Maybe a talk at leHACK...
+4. A BIG open-source project for offensive security
