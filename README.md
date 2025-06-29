@@ -116,12 +116,23 @@ My professional dreams are companies that I want to work for one day in my life.
   - Fine-tuning
   - CAG
   - Object Detection
+  - OCR
   - Agents
+  - MCP
+  - Tools
   - Frameworks
     - LangChain
     - LlamaIndex
     - CrewAI
-  - MCP
+    - Ollama
+- IAM
+  - IAG
+    - Usercube
+  - AM
+    - OAuth2
+    - SAML
+    - OIDC
+  - Keycloak
 
 
 ---
