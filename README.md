@@ -42,14 +42,14 @@ My professional dreams are companies that I want to work for one day in my life.
 | `Bash` | [=====     ] |
 | `C#` | [======    ] |
 | `Lua` | [===       ] |
+| `JS` | [===       ] |
 
 ---
 
 ## 👷 Projects
 
-
+- Creation of a trained autonomous AI agent that can attack systems thanks to a given shell, web browser (and more) and interact with private and offensive documentations.
 - Creation of an AI using satellite imagery, vision LLM and OCR for GEOINT.
-- Creation of a trained AI that can attack systems and interact with private and offensive documentations.
 - Creation of a weapon detection and fight alerting system with cameras.
 - Development of a botnet c2 in language C.
 - Contribute to Exegol for a secret feature
@@ -117,7 +117,7 @@ My professional dreams are companies that I want to work for one day in my life.
   - CAG
   - Object Detection
   - OCR
-  - Agents
+  - Agents / Autonomous agents
   - MCP
   - Tools
   - Frameworks
@@ -125,6 +125,7 @@ My professional dreams are companies that I want to work for one day in my life.
     - LlamaIndex
     - CrewAI
     - Ollama
+  - ComfyUI
 - IAM
   - IAG
     - Usercube
@@ -133,6 +134,9 @@ My professional dreams are companies that I want to work for one day in my life.
     - SAML
     - OIDC
   - Keycloak
+- Backend as a Service
+  - Supabase
+  - PocketBase
 
 
 ---
