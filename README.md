@@ -49,6 +49,7 @@ My professional dreams are companies that I want to work for one day in my life.
 ## 👷 Projects
 
 - Creation of a trained autonomous AI agent that can attack systems thanks to a given shell, web browser (and more) and interact with private and offensive documentations.
+- A military grade robotic cart that follows you, avoids obstacles, carries heavy load and features a voice-interactive AI agent to assist you with tasks. (in progress...)
 - Creation of an AI using satellite imagery, vision LLM and OCR for GEOINT.
 - Creation of a weapon detection and fight alerting system with cameras.
 - Development of a botnet c2 in language C.
