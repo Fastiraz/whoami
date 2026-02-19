@@ -49,6 +49,10 @@ My professional dreams are companies that I want to work for one day in my life.
 ## 👷 Projects
 
 - Creation of a trained autonomous AI agent that can attack systems thanks to a given shell, web browser (and more) and interact with private and offensive documentations.
+- Usercube
+  - MCP server for Usercube.
+  - CLI client and toolkit for Usercube.
+  - LLM trained on Usercube.
 - A military grade robotic cart that follows you, avoids obstacles, carries heavy load and features a voice-interactive AI agent to assist you with tasks. (in progress...)
 - Creation of an AI using satellite imagery, vision LLM and OCR for GEOINT.
 - Creation of a weapon detection and fight alerting system with cameras.
@@ -113,15 +117,22 @@ My professional dreams are companies that I want to work for one day in my life.
     - DPAPI
 - AI
   - LLM
+  - STT
+  - TTS
+  - VAD
   - RAG
   - Fine-tuning
   - CAG
   - Object Detection
+  - Anomaly Detection
+  - Prediction
+  - Classification
   - OCR
   - Agents / Autonomous agents
   - MCP
   - Tools
   - Frameworks
+    - llama.cpp
     - LangChain
     - LlamaIndex
     - CrewAI
